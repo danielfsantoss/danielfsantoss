@@ -2,5 +2,5 @@
 - 👀 I’m interested in game development and data analysis with Python.
 - 🌱 I’m currently learning and patricing Python.
 - 📫 You can reach me in:
-  > 📷 Instagram: @danielfsantos_
+  > 📷 Instagram: @danielfsantos_ \n
   > ✉️ Email: danielfigueiredo009@gmail.com or danielfigueiredotw@gmail.com
