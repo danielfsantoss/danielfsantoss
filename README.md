@@ -10,5 +10,5 @@ Here you can see some learning projects developed by me.
 ## Where can you find me?  
 - 📫 You can find me at:
    > 📷 Instagram: @danielfsantos_  
-   > ✉️ E-mail: danielfigueiredo009@gmail.com
+   > ✉️ E-mail: danielfigueiredo009@gmail.com  
    > LinkedIn: https://www.linkedin.com/in/daniel-figueiredo-92a186232/
